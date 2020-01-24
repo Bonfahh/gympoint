@@ -1,1 +1,1 @@
-# gympoiny
+# GymPoint
